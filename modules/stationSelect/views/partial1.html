@@ -6,11 +6,11 @@
 <form>
   <div class="row">
     <div class="small-8 columns">
-        <select ng-model='selectedLine' ng-options='obj.name for obj in people'>
+        <select ng-model='Lines' ng-options='obj.lineName for obj in Lines'>
           
         </select>
-        <select ng-model='selectedGenre'>
-            <option ng-repeat='label in people[selectedLine.id].music'>{{label}}</option>
+        <select ng-model='stops'>
+            <option ng-repeat='stop in stops'>{{stop.location_name}}</option>
         </select>
     </div>
   </div>

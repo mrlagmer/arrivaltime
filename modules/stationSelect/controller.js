@@ -1,11 +1,23 @@
 angular.module('myApp.controllers', [])
-  .controller('MyCtrl1', ['$scope',function($scope) {
+  	.controller('MyCtrl1', ['$scope','apiservice',function($scope,apiservice) {
+  		$scope.lineID = 6;
+  		$scope.Lines = [
+  			{
+  				id:6,
+  				lineName:'Frankston'
+  			}
+  		];
+
+  		apiservice.getStops($scope.lineID).success(function (response) {
+        	$scope.stops = response; 
+    	});
+  		
   		$scope.selectedLine = 0;
 		$scope.selectedGenre = null;
 		$scope.people = [
 			{
 				id: 0,
-				name: 'Leon',
+				name: 'Frankston',
 				music: [
 					'Rock',
 					'Metal',
