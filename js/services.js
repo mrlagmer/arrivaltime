@@ -13,7 +13,7 @@ angular.module('myApp.services', []).
     API.getStops = function(lineID) {
       return $http({
         method: 'GET', 
-        url: 'api/Lines/?apiCall=getStops&data='+lineID
+        url: 'api/getStops/?apiCall=getStops&data='+lineID
       });
     }
 

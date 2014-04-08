@@ -10,8 +10,8 @@ switch ($_GET['apiCall']) {
 		break;
 	
 	default:
-		$jsonResult = $api->healthcheck;
-		echo $jsonResult;
+		$result = $api->checkHealth();
+		echo $result;
 		break;
 }
 ?>
