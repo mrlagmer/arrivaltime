@@ -6,12 +6,21 @@
 <form>
   <div class="row">
     <div class="small-8 columns">
+      <label>Line
         <select id="line" name="line" ng-model='lineID' ng-change="getStopData()">
             <option value="{{line.id}}" ng-repeat="line in Lines">{{line.lineName}}</option>
         </select>
-        <select id="stop" name="stop" ng-model='stops'>
-          <option ng-repeat='stop in stops'>{{stop.location_name}}</option>
+      </label>
+      <label>Start Station
+        <select id="startStop" name="startStop" ng-model='startStop'>
+          <option value="{{stop.stop_id}}" ng-repeat='stop in stops'>{{stop.location_name}}</option>
         </select>
+      </label>
+      <label>End Station
+        <select id="endStop" name="endStop" ng-model='endStop'>
+          <option value="{{stop.stop_id}}" ng-repeat='stop in stops'>{{stop.location_name}}</option>
+        </select>
+      </label>
     </div>
   </div>
 </form>
