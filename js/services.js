@@ -12,8 +12,15 @@ angular.module('myApp.services', []).
 
     API.getStops = function(lineID) {
       return $http({
-        method: 'GET', 
+        method: 'GET',
         url: 'api/getStops/?apiCall=getStops&data='+lineID
+      });
+    }
+
+    API.getTimes = function(startID,endID) {
+      return $http({
+        method: 'GET',
+        url: 'api/getTimes/?apiCall=getTimes&startID='+startID+'&stopID='+endID
       });
     }
 

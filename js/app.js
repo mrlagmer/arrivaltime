@@ -11,7 +11,7 @@ angular.module('myApp', [
   'myApp.controllers'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.when('/view1', {templateUrl: 'modules/stationSelect/views/partial1.html', controller: 'MyCtrl1'});
-  $routeProvider.when('/view2', {templateUrl: 'modules/stationSelect/views/partial2.html', controller: 'MyCtrl2'});
-  $routeProvider.otherwise({redirectTo: '/view1'});
+  $routeProvider.when('/Line', {templateUrl: 'modules/stationSelect/views/line.html', controller: 'MyCtrl1'});
+  $routeProvider.when('/Times', {templateUrl: 'modules/times/views/time.html', controller: 'MyCtrl2'});
+  $routeProvider.otherwise({redirectTo: '/Line'});
 }]);

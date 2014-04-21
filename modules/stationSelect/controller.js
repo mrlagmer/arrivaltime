@@ -10,14 +10,13 @@ angular.module('myApp.controllers', [])
   			}
   		];
   		$scope.getStopData = function() {
-  				apiservice.getStops($scope.lineID).success(function (response) {
-        		$scope.stops = response; 
+  			  apiservice.getStops($scope.lineID).success(function (response) {
+        		$scope.stops = response;
     		});
   		};
-  		
-  		
-  		
-  }])
-  .controller('MyCtrl2', [function() {
-
+          $scope.getTrainTimes = function() {
+                  apiservice.getTimes($scope.startID,$scope.endID).success(function (response) {
+                  $scope.times = response;
+              });
+          };
   }]);

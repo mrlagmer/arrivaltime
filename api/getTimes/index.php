@@ -1,8 +1,9 @@
 <?php
 require('../PtvApi.php');
+require('../UtcTime.php');
 
 $api = new PtvApi();
-$timeNow = new DateTime($stop['time_timetable_utc'],new DateTimeZone('Australia/Melbourne'));
+$utcTime = new UtcTime();
 
 switch ($_GET['apiCall']) {
 	case 'getTimes':
@@ -16,16 +17,15 @@ switch ($_GET['apiCall']) {
 			//echo "<pre>".print_r($stopArray)."</pre>";
 			foreach ($stopArray['values'] as $stop) {
 				if ($stop['platform']['stop']['stop_id'] == $_GET['stopID']) {
-					$time = new DateTime($stop['time_timetable_utc'],new DateTimeZone('UTC'));
-					$time->setTimezone(new DateTimeZone('Australia/Melbourne'));
-					if($timeNow < $time) {
-						echo $stop['time_timetable_utc'].' - '.$time->format('d/m/Y G:i:s a').'<br>';
+					if($utcTime->timeInFuture($stop['time_timetable_utc'])) {
+						$trainArray[] = array('departureTime' => $utcTime->convertUTC($train['time_timetable_utc']), 'arrivalTime' => $utcTime->convertUTC($stop['time_timetable_utc']));
+						//echo $utcTime->convertUTC($train['time_timetable_utc']).' - '.$utcTime->convertUTC($stop['time_timetable_utc']).'<br>';
 					}
 				}
 			}
 		}
-
-		//echo $jsonResult;
+		$jsonOut = json_encode($trainArray);
+		echo $jsonOut;
 		break;
 
 	default:

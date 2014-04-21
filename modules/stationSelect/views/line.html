@@ -1,8 +1,8 @@
-  <div class="row">
-      <div class="small-12 columns" >
-        <h1>Train Times</h1>
-      </div>
+<div class="row">
+  <div class="small-12 columns" >
+    <h1>Train Times</h1>
   </div>
+</div>
 <form>
   <div class="row">
     <div class="small-8 columns">
@@ -12,15 +12,22 @@
         </select>
       </label>
       <label>Start Station
-        <select id="startStop" name="startStop" ng-model='startStop'>
+        <select id="startStop" name="startStop" ng-model='startID'>
           <option value="{{stop.stop_id}}" ng-repeat='stop in stops'>{{stop.location_name}}</option>
         </select>
       </label>
       <label>End Station
-        <select id="endStop" name="endStop" ng-model='endStop'>
+        <select id="endStop" name="endStop" ng-model='endID' ng-change="getTrainTimes()">
           <option value="{{stop.stop_id}}" ng-repeat='stop in stops'>{{stop.location_name}}</option>
         </select>
       </label>
     </div>
   </div>
 </form>
+<div class="row">
+    <div class="small-12 columns" ng-model="times" ng-repeat="time in times">
+        <ul class="pricing-table">
+          <li class="title">{{time.departureTime}}</li>
+        </ul>
+    </div>
+</div>
