@@ -16,6 +16,7 @@ angular.module('myApp.controllers', [])
   		};
           $scope.getTrainTimes = function() {
                   apiservice.getTimes($scope.startID,$scope.endID).success(function (response) {
+                  $scope.times = {};
                   $scope.times = response;
               });
           };

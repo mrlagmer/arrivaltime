@@ -27,7 +27,10 @@
 <div class="row">
     <div class="small-12 columns" ng-model="times" ng-repeat="time in times">
         <ul class="pricing-table">
-          <li class="title">{{time.departureTime}}</li>
+          <li class="title">
+              Departs: {{time.departureTime}}
+              Arrives: {{time.arrivalTime}}
+          </li>
         </ul>
     </div>
 </div>
