@@ -17,7 +17,6 @@ switch ($_GET['apiCall']) {
 			// Now check if train is stopping at destination
 			$jsonResult = $api->getStoppingPattern($_GET['startID'],$train['run']['run_id']);
 			$stopArray = json_decode($jsonResult,true);
-			//echo "<pre>".print_r($stopArray)."</pre>";
 			foreach ($stopArray['values'] as $stop) {
 				if ($stop['platform']['stop']['stop_id'] == $_GET['stopID']) {
 					if($utcTime->timeInFuture($stop['time_timetable_utc'])) {
@@ -29,7 +28,10 @@ switch ($_GET['apiCall']) {
 		}
 		$jsonResult = $api->getSpecificTimes($lineID,$_GET['startID'],$directionID,5);
 		$timeArray = json_decode($jsonResult,true);
-
+		//echo "DIR ID".$directionID.'<br>';
+		//echo "<pre>";
+		//print_r($timeArray);
+		//echo "</pre>";
 		foreach($timeArray['values'] as $train) {
 			//Now need to find arrival time for each train
 			//echo 'stuff'.$train['run']['run_id'];

@@ -21,17 +21,25 @@
           <option value="{{stop.stop_id}}" ng-repeat='stop in stops'>{{stop.location_name}}</option>
         </select>
       </label>
-      
+
     </div>
   </div>
 </form>
 <div class="row">
     <div class="small-12 columns" ng-model="times" ng-repeat="time in times">
-        <ul class="pricing-table">
-          <li class="title">
-              Departs: {{time.departureTime}}
-              Arrives: {{time.arrivalTime}}
-          </li>
-        </ul>
+        <div class="row">
+            <div class="small-6 columns">
+                <div class="panel">
+                  <h3>Departs</h3>
+                  <p>{{time.departureTime}}</p>
+                </div>
+            </div>
+            <div class="small-6 columns">
+                <div class="panel">
+                  <h3>Arrives</h3>
+                  <p>{{time.arrivalTime}}</p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
