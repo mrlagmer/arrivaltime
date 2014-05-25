@@ -26,6 +26,7 @@ switch ($_GET['apiCall']) {
 				}
 			}
 		}
+		//echo 'DIR ID '.$directionID.'<br>';
 		$jsonResult = $api->getSpecificTimes($lineID,$_GET['startID'],$directionID,5);
 		$timeArray = json_decode($jsonResult,true);
 		//echo "DIR ID".$directionID.'<br>';
