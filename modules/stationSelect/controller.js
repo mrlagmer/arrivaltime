@@ -41,20 +41,16 @@ angular.module('myApp.controllers', ['chieffancypants.loadingBar'])
                   lineName:'Lilydale'
               },
               {
-                  id:10,
+                  id:11,
                   lineName:'Pakenham'
               },
               {
-                  id:11,
+                  id:12,
                   lineName:'Sandringham'
               },
               {
-                  id:12,
+                  id:5,
                   lineName:'South Morang'
-              },
-              {
-                  id:13,
-                  lineName:'Stony Point'
               },
               {
                   id:14,
