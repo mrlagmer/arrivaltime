@@ -1,33 +1,16 @@
 <?php
 require('../PtvApi.php');
 require('../UtcTime.php');
+require('../Stops.php');
 
 $api = new PtvApi();
 $utcTime = new UtcTime();
+$stops = new Stops();
 
 switch ($_GET['apiCall']) {
 	case 'getTimes':
-		//get general leaving times for the stop.
-		$jsonResult = $api->getTimes($_GET['startID']);
-		$timeArray = json_decode($jsonResult,true);
-		//echo "<pre>";
-		//print_r($timeArray);
-		//echo "</pre>";
-		foreach ($timeArray['values'] as $train) {
-			// Now check if train is stopping at destination
-			$jsonResult = $api->getStoppingPattern($_GET['startID'],$train['run']['run_id']);
-			$stopArray = json_decode($jsonResult,true);
-			foreach ($stopArray['values'] as $stop) {
-				if ($stop['platform']['stop']['stop_id'] == $_GET['stopID']) {
-					if($utcTime->timeInFuture($stop['time_timetable_utc'])) {
-						$directionID = $stop['platform']['direction']['direction_id'];
-						$lineID = $stop['platform']['direction']['line']['line_id'];
-					}
-				}
-			}
-		}
-		//echo 'DIR ID '.$directionID.'<br>';
-		$jsonResult = $api->getSpecificTimes($lineID,$_GET['startID'],$directionID,5);
+		$directionID = $stops->getDirection($_GET['lineID'],$_GET['startID'],$_GET['stopID']);
+		$jsonResult = $api->getSpecificTimes($_GET['lineID'],$_GET['startID'],$directionID,5);
 		$timeArray = json_decode($jsonResult,true);
 		//echo "DIR ID".$directionID.'<br>';
 		//echo "<pre>";
@@ -50,7 +33,7 @@ switch ($_GET['apiCall']) {
 		if($timeCount < 5) {
 			$timeCount = 0;
 			$trainArray = array();
-			$jsonResult = $api->getSpecificTimes($lineID,$_GET['startID'],$directionID,10);
+			$jsonResult = $api->getSpecificTimes($_GET['lineID'],$_GET['startID'],$directionID,10);
 			$timeArray = json_decode($jsonResult,true);
 
 			foreach($timeArray['values'] as $train) {

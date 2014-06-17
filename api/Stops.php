@@ -2,6 +2,28 @@
 
 class Stops {
 
+        public function getDirection($lineID,$startID,$endID) {
+            //Grab all the stops for a line excluding the city
+            $stops = $this->lineLookup($lineID);
+            $startInt = $stops[$startID];
+            $endInt = $stops[$endID];
+            if (!$startInt) {
+                $startInt = 50;
+            }
+            if (!$endInt) {
+                $endInt = 50;
+            }
+            //Now work out direction
+            if ($startInt > $endInt) {
+                $directionID = $lineID;
+            }
+            else {
+                $directionID = 0;
+            }
+
+            return $directionID;
+        }
+
 
         private function lineLookup($lineID) {
             //All lines in order to the city Lines Stop at last stop before city
@@ -75,6 +97,7 @@ class Stops {
                     $lineArray = array('1211' => 1, '1212' => 2, '1146' => 3, '1141' => 4, '1182' => 5, '1216' => 6, '1176' => 7,'1072' => 8, '1179' => 9, '1144' => 10);
                     break;
             }
+            return $lineArray;
         }
 
 }

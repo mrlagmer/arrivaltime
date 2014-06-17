@@ -24,10 +24,10 @@ angular.module('myApp.controllers', ['chieffancypants.loadingBar'])
                   id:5,
                   lineName:'Flemington'
               },
-  			{
-  				id:6,
-  				lineName:'Frankston'
-  			},
+        			{
+        				id:6,
+        				lineName:'Frankston'
+        			},
               {
                   id:7,
                   lineName:'Glen Waverley'
@@ -76,7 +76,7 @@ angular.module('myApp.controllers', ['chieffancypants.loadingBar'])
   		};
           $scope.getTrainTimes = function() {
                   $scope.times = {};
-                  apiservice.getTimes($scope.startID,$scope.endID).success(function (response) {
+                  apiservice.getTimes($scope.lineID,$scope.startID,$scope.endID).success(function (response) {
                   $scope.times = response;
               });
           };

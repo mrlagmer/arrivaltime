@@ -17,10 +17,10 @@ angular.module('myApp.services', []).
       });
     }
 
-    API.getTimes = function(startID,endID) {
+    API.getTimes = function(lineID,startID,endID) {
       return $http({
         method: 'GET',
-        url: 'api/getTimes/?apiCall=getTimes&startID='+startID+'&stopID='+endID
+        url: 'api/getTimes/?apiCall=getTimes&lineID='+lineID+'&startID='+startID+'&stopID='+endID
       });
     }
 
