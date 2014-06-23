@@ -1,0 +1,173 @@
+[
+  {
+    "suburb": "Brunswick",
+    "transport_type": "train",
+    "stop_id": 1006,
+    "location_name": "Anstey Station",
+    "lat": -37.76124,
+    "lon": 144.9607,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Coburg North",
+    "transport_type": "train",
+    "stop_id": 1014,
+    "location_name": "Batman Station",
+    "lat": -37.7335243,
+    "lon": 144.96283,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Brunswick",
+    "transport_type": "train",
+    "stop_id": 1029,
+    "location_name": "Brunswick Station",
+    "lat": -37.76772,
+    "lon": 144.9596,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Coburg",
+    "transport_type": "train",
+    "stop_id": 1042,
+    "location_name": "Coburg Station",
+    "lat": -37.74234,
+    "lon": 144.963348,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Fawkner",
+    "transport_type": "train",
+    "stop_id": 1066,
+    "location_name": "Fawkner Station",
+    "lat": -37.7146225,
+    "lon": 144.960556,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "North Melbourne",
+    "transport_type": "train",
+    "stop_id": 1069,
+    "location_name": "Flemington Bridge Station",
+    "lat": -37.7881355,
+    "lon": 144.939316,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glenroy",
+    "transport_type": "train",
+    "stop_id": 1083,
+    "location_name": "Gowrie Station",
+    "lat": -37.700676,
+    "lon": 144.958878,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Brunswick",
+    "transport_type": "train",
+    "stop_id": 1103,
+    "location_name": "Jewell Station",
+    "lat": -37.7749825,
+    "lon": 144.95871,
+    "distance": 0.0
+  },
+  {
+    "suburb": "North Melbourne",
+    "transport_type": "train",
+    "stop_id": 1116,
+    "location_name": "Macaulay Station",
+    "lat": -37.7942619,
+    "lon": 144.936172,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Coburg North",
+    "transport_type": "train",
+    "stop_id": 1124,
+    "location_name": "Merlynston Station",
+    "lat": -37.7209358,
+    "lon": 144.961319,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Coburg",
+    "transport_type": "train",
+    "stop_id": 1135,
+    "location_name": "Moreland Station",
+    "lat": -37.7544823,
+    "lon": 144.961823,
+    "distance": 0.0
+  },
+  {
+    "suburb": "West Melbourne",
+    "transport_type": "train",
+    "stop_id": 1144,
+    "location_name": "North Melbourne Station",
+    "lat": -37.80631,
+    "lon": 144.941513,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Parkville",
+    "transport_type": "train",
+    "stop_id": 1169,
+    "location_name": "Royal Park Station",
+    "lat": -37.7811928,
+    "lon": 144.9523,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Coolaroo",
+    "transport_type": "train",
+    "stop_id": 1198,
+    "location_name": "Upfield Station",
+    "lat": -37.6660767,
+    "lon": 144.946747,
+    "distance": 0.0
+  }
+]

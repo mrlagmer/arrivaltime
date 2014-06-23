@@ -1,0 +1,191 @@
+[
+  {
+    "suburb": "Ascot Vale",
+    "transport_type": "train",
+    "stop_id": 1009,
+    "location_name": "Ascot Vale Station",
+    "lat": -37.77531,
+    "lon": 144.921829,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Broadmeadows",
+    "transport_type": "train",
+    "stop_id": 1028,
+    "location_name": "Broadmeadows Station",
+    "lat": -37.6830521,
+    "lon": 144.919617,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Coolaroo",
+    "transport_type": "train",
+    "stop_id": 1221,
+    "location_name": "Coolaroo Station",
+    "lat": -37.661,
+    "lon": 144.926056,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Craigieburn",
+    "transport_type": "train",
+    "stop_id": 1044,
+    "location_name": "Craigieburn Station",
+    "lat": -37.6019249,
+    "lon": 144.943314,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Essendon",
+    "transport_type": "train",
+    "stop_id": 1064,
+    "location_name": "Essendon Station",
+    "lat": -37.75601,
+    "lon": 144.9162,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Essendon",
+    "transport_type": "train",
+    "stop_id": 1079,
+    "location_name": "Glenbervie Station",
+    "lat": -37.7472153,
+    "lon": 144.920944,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glenroy",
+    "transport_type": "train",
+    "stop_id": 1082,
+    "location_name": "Glenroy Station",
+    "lat": -37.7045326,
+    "lon": 144.917221,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glenroy",
+    "transport_type": "train",
+    "stop_id": 1102,
+    "location_name": "Jacana Station",
+    "lat": -37.6951332,
+    "lon": 144.915848,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Kensington",
+    "transport_type": "train",
+    "stop_id": 1108,
+    "location_name": "Kensington Station",
+    "lat": -37.7937775,
+    "lon": 144.930527,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Moonee Ponds",
+    "transport_type": "train",
+    "stop_id": 1131,
+    "location_name": "Moonee Ponds Station",
+    "lat": -37.7657051,
+    "lon": 144.919159,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Flemington",
+    "transport_type": "train",
+    "stop_id": 1140,
+    "location_name": "Newmarket Station",
+    "lat": -37.7873268,
+    "lon": 144.928986,
+    "distance": 0.0
+  },
+  {
+    "suburb": "West Melbourne",
+    "transport_type": "train",
+    "stop_id": 1144,
+    "location_name": "North Melbourne Station",
+    "lat": -37.80631,
+    "lon": 144.941513,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Oak Park",
+    "transport_type": "train",
+    "stop_id": 1149,
+    "location_name": "Oak Park Station",
+    "lat": -37.71795,
+    "lon": 144.921509,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Pascoe Vale",
+    "transport_type": "train",
+    "stop_id": 1156,
+    "location_name": "Pascoe Vale Station",
+    "lat": -37.7307549,
+    "lon": 144.928192,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Roxburgh Park",
+    "transport_type": "train",
+    "stop_id": 1219,
+    "location_name": "Roxburgh Park Station",
+    "lat": -37.6382332,
+    "lon": 144.93541,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Essendon",
+    "transport_type": "train",
+    "stop_id": 1186,
+    "location_name": "Strathmore Station",
+    "lat": -37.74359,
+    "lon": 144.927322,
+    "distance": 0.0
+  }
+]

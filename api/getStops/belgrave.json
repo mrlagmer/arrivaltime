@@ -1,0 +1,290 @@
+[
+  {
+    "suburb": "Hawthorn East",
+    "transport_type": "train",
+    "stop_id": 1012,
+    "location_name": "Auburn Station",
+    "lat": -37.8224,
+    "lon": 145.045837,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Bayswater",
+    "transport_type": "train",
+    "stop_id": 1016,
+    "location_name": "Bayswater Station",
+    "lat": -37.84173,
+    "lon": 145.268143,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Belgrave",
+    "transport_type": "train",
+    "stop_id": 1018,
+    "location_name": "Belgrave Station",
+    "lat": -37.9091,
+    "lon": 145.355286,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Blackburn",
+    "transport_type": "train",
+    "stop_id": 1023,
+    "location_name": "Blackburn Station",
+    "lat": -37.82007,
+    "lon": 145.150009,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Boronia",
+    "transport_type": "train",
+    "stop_id": 1025,
+    "location_name": "Boronia Station",
+    "lat": -37.8604546,
+    "lon": 145.284378,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Box Hill",
+    "transport_type": "train",
+    "stop_id": 1026,
+    "location_name": "Box Hill Station",
+    "lat": -37.8192177,
+    "lon": 145.121429,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Burnley",
+    "transport_type": "train",
+    "stop_id": 1030,
+    "location_name": "Burnley Station",
+    "lat": -37.8275566,
+    "lon": 145.007553,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Camberwell",
+    "transport_type": "train",
+    "stop_id": 1032,
+    "location_name": "Camberwell Station",
+    "lat": -37.8265648,
+    "lon": 145.058685,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Canterbury",
+    "transport_type": "train",
+    "stop_id": 1033,
+    "location_name": "Canterbury Station",
+    "lat": -37.82449,
+    "lon": 145.081223,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Surrey Hills",
+    "transport_type": "train",
+    "stop_id": 1037,
+    "location_name": "Chatham Station",
+    "lat": -37.8243027,
+    "lon": 145.088654,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Camberwell",
+    "transport_type": "train",
+    "stop_id": 1057,
+    "location_name": "East Camberwell Station",
+    "lat": -37.8258934,
+    "lon": 145.068192,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1059,
+    "location_name": "East Richmond Station",
+    "lat": -37.8264046,
+    "lon": 144.99707,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Ferntree Gully",
+    "transport_type": "train",
+    "stop_id": 1067,
+    "location_name": "Ferntree Gully Station",
+    "lat": -37.8817,
+    "lon": 145.295258,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Hawthorn",
+    "transport_type": "train",
+    "stop_id": 1080,
+    "location_name": "Glenferrie Station",
+    "lat": -37.8214645,
+    "lon": 145.036438,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Hawthorn",
+    "transport_type": "train",
+    "stop_id": 1090,
+    "location_name": "Hawthorn Station",
+    "lat": -37.8218231,
+    "lon": 145.0229,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Mitcham",
+    "transport_type": "train",
+    "stop_id": 1091,
+    "location_name": "Heatherdale Station",
+    "lat": -37.8188972,
+    "lon": 145.212784,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Heathmont",
+    "transport_type": "train",
+    "stop_id": 1092,
+    "location_name": "Heathmont Station",
+    "lat": -37.82832,
+    "lon": 145.244553,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Blackburn",
+    "transport_type": "train",
+    "stop_id": 1111,
+    "location_name": "Laburnum Station",
+    "lat": -37.8207779,
+    "lon": 145.1407,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Mitcham",
+    "transport_type": "train",
+    "stop_id": 1128,
+    "location_name": "Mitcham Station",
+    "lat": -37.8180122,
+    "lon": 145.191971,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Mont Albert",
+    "transport_type": "train",
+    "stop_id": 1129,
+    "location_name": "Mont Albert Station",
+    "lat": -37.8194275,
+    "lon": 145.10553,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Nunawading",
+    "transport_type": "train",
+    "stop_id": 1148,
+    "location_name": "Nunawading Station",
+    "lat": -37.8206,
+    "lon": 145.1749,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1162,
+    "location_name": "Richmond Station",
+    "lat": -37.8240738,
+    "lon": 144.990158,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Ringwood",
+    "transport_type": "train",
+    "stop_id": 1163,
+    "location_name": "Ringwood Station",
+    "lat": -37.81589,
+    "lon": 145.228973,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Surrey Hills",
+    "transport_type": "train",
+    "stop_id": 1189,
+    "location_name": "Surrey Hills Station",
+    "lat": -37.8241425,
+    "lon": 145.098785,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Tecoma",
+    "transport_type": "train",
+    "stop_id": 1191,
+    "location_name": "Tecoma Station",
+    "lat": -37.9081154,
+    "lon": 145.343,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Upper Ferntree Gully",
+    "transport_type": "train",
+    "stop_id": 1199,
+    "location_name": "Upper Ferntree Gully Station",
+    "lat": -37.8926735,
+    "lon": 145.307526,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Upwey",
+    "transport_type": "train",
+    "stop_id": 1200,
+    "location_name": "Upwey Station",
+    "lat": -37.90369,
+    "lon": 145.331329,
+    "distance": 0.0
+  }
+]

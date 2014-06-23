@@ -21,7 +21,7 @@ angular.module('myApp.controllers', ['chieffancypants.loadingBar'])
                   lineName:'Cranbourne'
               },
               {
-                  id:5,
+                  id:55,
                   lineName:'Flemington'
               },
         			{

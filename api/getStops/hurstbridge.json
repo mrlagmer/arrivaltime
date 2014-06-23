@@ -1,0 +1,254 @@
+[
+  {
+    "suburb": "Alphington",
+    "transport_type": "train",
+    "stop_id": 1004,
+    "location_name": "Alphington Station",
+    "lat": -37.7783966,
+    "lon": 145.03125,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Clifton Hill",
+    "transport_type": "train",
+    "stop_id": 1041,
+    "location_name": "Clifton Hill Station",
+    "lat": -37.7886543,
+    "lon": 144.995422,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Abbotsford",
+    "transport_type": "train",
+    "stop_id": 1043,
+    "location_name": "Collingwood Station",
+    "lat": -37.8045235,
+    "lon": 144.993744,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Ivanhoe",
+    "transport_type": "train",
+    "stop_id": 1050,
+    "location_name": "Darebin Station",
+    "lat": -37.7749634,
+    "lon": 145.038483,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Northcote",
+    "transport_type": "train",
+    "stop_id": 1053,
+    "location_name": "Dennis Station",
+    "lat": -37.7791824,
+    "lon": 145.00824,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Diamond Creek",
+    "transport_type": "train",
+    "stop_id": 1054,
+    "location_name": "Diamond Creek Station",
+    "lat": -37.6732941,
+    "lon": 145.158508,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Eaglemont",
+    "transport_type": "train",
+    "stop_id": 1056,
+    "location_name": "Eaglemont Station",
+    "lat": -37.7635841,
+    "lon": 145.05394,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Eltham",
+    "transport_type": "train",
+    "stop_id": 1062,
+    "location_name": "Eltham Station",
+    "lat": -37.71355,
+    "lon": 145.147827,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Fairfield",
+    "transport_type": "train",
+    "stop_id": 1065,
+    "location_name": "Fairfield Station",
+    "lat": -37.7791748,
+    "lon": 145.0169,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Greensborough",
+    "transport_type": "train",
+    "stop_id": 1084,
+    "location_name": "Greensborough Station",
+    "lat": -37.70395,
+    "lon": 145.108246,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Heidelberg",
+    "transport_type": "train",
+    "stop_id": 1093,
+    "location_name": "Heidelberg Station",
+    "lat": -37.7570763,
+    "lon": 145.060684,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Hurstbridge",
+    "transport_type": "train",
+    "stop_id": 1100,
+    "location_name": "Hurstbridge Station",
+    "lat": -37.6394,
+    "lon": 145.192017,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Ivanhoe",
+    "transport_type": "train",
+    "stop_id": 1101,
+    "location_name": "Ivanhoe Station",
+    "lat": -37.768898,
+    "lon": 145.045425,
+    "distance": 0.0
+  },
+  {
+    "suburb": "East Melbourne",
+    "transport_type": "train",
+    "stop_id": 1104,
+    "location_name": "Jolimont-MCG Station",
+    "lat": -37.81653,
+    "lon": 144.9841,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Macleod",
+    "transport_type": "train",
+    "stop_id": 1117,
+    "location_name": "Macleod Station",
+    "lat": -37.72601,
+    "lon": 145.069153,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Montmorency",
+    "transport_type": "train",
+    "stop_id": 1130,
+    "location_name": "Montmorency Station",
+    "lat": -37.7152977,
+    "lon": 145.1215,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1145,
+    "location_name": "North Richmond Station",
+    "lat": -37.8103943,
+    "lon": 144.9925,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Rosanna",
+    "transport_type": "train",
+    "stop_id": 1168,
+    "location_name": "Rosanna Station",
+    "lat": -37.7428741,
+    "lon": 145.066147,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Abbotsford",
+    "transport_type": "train",
+    "stop_id": 1201,
+    "location_name": "Victoria Park Station",
+    "lat": -37.7991562,
+    "lon": 144.994446,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Watsonia",
+    "transport_type": "train",
+    "stop_id": 1203,
+    "location_name": "Watsonia Station",
+    "lat": -37.7109528,
+    "lon": 145.0838,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Wattle Glen",
+    "transport_type": "train",
+    "stop_id": 1204,
+    "location_name": "Wattle Glen Station",
+    "lat": -37.6639671,
+    "lon": 145.181625,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1207,
+    "location_name": "West Richmond Station",
+    "lat": -37.8149452,
+    "lon": 144.991425,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Northcote",
+    "transport_type": "train",
+    "stop_id": 1209,
+    "location_name": "Westgarth Station",
+    "lat": -37.7806168,
+    "lon": 144.999237,
+    "distance": 0.0
+  }
+]

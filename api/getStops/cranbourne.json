@@ -1,0 +1,245 @@
+[
+  {
+    "suburb": "Armadale",
+    "transport_type": "train",
+    "stop_id": 1008,
+    "location_name": "Armadale Station",
+    "lat": -37.8564529,
+    "lon": 145.019333,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Carnegie",
+    "transport_type": "train",
+    "stop_id": 1034,
+    "location_name": "Carnegie Station",
+    "lat": -37.88624,
+    "lon": 145.058578,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Caulfield East",
+    "transport_type": "train",
+    "stop_id": 1036,
+    "location_name": "Caulfield Station",
+    "lat": -37.8774567,
+    "lon": 145.042526,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Clayton",
+    "transport_type": "train",
+    "stop_id": 1040,
+    "location_name": "Clayton Station",
+    "lat": -37.9251671,
+    "lon": 145.120682,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Cranbourne",
+    "transport_type": "train",
+    "stop_id": 1045,
+    "location_name": "Cranbourne Station",
+    "lat": -38.09954,
+    "lon": 145.2806,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Dandenong",
+    "transport_type": "train",
+    "stop_id": 1049,
+    "location_name": "Dandenong Station",
+    "lat": -37.9899673,
+    "lon": 145.209732,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "South Yarra",
+    "transport_type": "train",
+    "stop_id": 1089,
+    "location_name": "Hawksburn Station",
+    "lat": -37.844593,
+    "lon": 145.002136,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Hughesdale",
+    "transport_type": "train",
+    "stop_id": 1098,
+    "location_name": "Hughesdale Station",
+    "lat": -37.89488,
+    "lon": 145.077637,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Oakleigh",
+    "transport_type": "train",
+    "stop_id": 1099,
+    "location_name": "Huntingdale Station",
+    "lat": -37.91102,
+    "lon": 145.102371,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Lynbrook",
+    "transport_type": "train",
+    "stop_id": 1222,
+    "location_name": "Lynbrook Station",
+    "lat": -38.05503,
+    "lon": 145.248138,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Malvern",
+    "transport_type": "train",
+    "stop_id": 1118,
+    "location_name": "Malvern Station",
+    "lat": -37.86625,
+    "lon": 145.0293,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Cranbourne North",
+    "transport_type": "train",
+    "stop_id": 1123,
+    "location_name": "Merinda Park Station",
+    "lat": -38.0790024,
+    "lon": 145.2635,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Murrumbeena",
+    "transport_type": "train",
+    "stop_id": 1138,
+    "location_name": "Murrumbeena Station",
+    "lat": -37.8901978,
+    "lon": 145.067383,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Noble Park",
+    "transport_type": "train",
+    "stop_id": 1142,
+    "location_name": "Noble Park Station",
+    "lat": -37.9672356,
+    "lon": 145.176941,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Oakleigh",
+    "transport_type": "train",
+    "stop_id": 1150,
+    "location_name": "Oakleigh Station",
+    "lat": -37.9003677,
+    "lon": 145.088318,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1162,
+    "location_name": "Richmond Station",
+    "lat": -37.8240738,
+    "lon": 144.990158,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Springvale",
+    "transport_type": "train",
+    "stop_id": 1172,
+    "location_name": "Sandown Park Station",
+    "lat": -37.9565,
+    "lon": 145.162827,
+    "distance": 0.0
+  },
+  {
+    "suburb": "South Yarra",
+    "transport_type": "train",
+    "stop_id": 1180,
+    "location_name": "South Yarra Station",
+    "lat": -37.8384438,
+    "lon": 144.99234,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Springvale",
+    "transport_type": "train",
+    "stop_id": 1183,
+    "location_name": "Springvale Station",
+    "lat": -37.9495125,
+    "lon": 145.153458,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Armadale",
+    "transport_type": "train",
+    "stop_id": 1194,
+    "location_name": "Toorak Station",
+    "lat": -37.85077,
+    "lon": 145.0139,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Clayton South",
+    "transport_type": "train",
+    "stop_id": 1208,
+    "location_name": "Westall Station",
+    "lat": -37.93849,
+    "lon": 145.13884,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Noble Park",
+    "transport_type": "train",
+    "stop_id": 1215,
+    "location_name": "Yarraman Station",
+    "lat": -37.9782524,
+    "lon": 145.1916,
+    "distance": 0.0
+  }
+]

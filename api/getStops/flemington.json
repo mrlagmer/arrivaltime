@@ -1,0 +1,236 @@
+[
+  {
+    "suburb": "Preston",
+    "transport_type": "train",
+    "stop_id": 1019,
+    "location_name": "Bell Station",
+    "lat": -37.7455673,
+    "lon": 145.000153,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Clifton Hill",
+    "transport_type": "train",
+    "stop_id": 1041,
+    "location_name": "Clifton Hill Station",
+    "lat": -37.7886543,
+    "lon": 144.995422,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Abbotsford",
+    "transport_type": "train",
+    "stop_id": 1043,
+    "location_name": "Collingwood Station",
+    "lat": -37.8045235,
+    "lon": 144.993744,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Northcote",
+    "transport_type": "train",
+    "stop_id": 1047,
+    "location_name": "Croxton Station",
+    "lat": -37.7641,
+    "lon": 144.997055,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Epping",
+    "transport_type": "train",
+    "stop_id": 1063,
+    "location_name": "Epping Station",
+    "lat": -37.65239,
+    "lon": 145.030121,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "East Melbourne",
+    "transport_type": "train",
+    "stop_id": 1104,
+    "location_name": "Jolimont-MCG Station",
+    "lat": -37.81653,
+    "lon": 144.9841,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Thomastown",
+    "transport_type": "train",
+    "stop_id": 1109,
+    "location_name": "Keon Park Station",
+    "lat": -37.6948662,
+    "lon": 145.011887,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Lalor",
+    "transport_type": "train",
+    "stop_id": 1112,
+    "location_name": "Lalor Station",
+    "lat": -37.66585,
+    "lon": 145.0172,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Northcote",
+    "transport_type": "train",
+    "stop_id": 1125,
+    "location_name": "Merri Station",
+    "lat": -37.7778435,
+    "lon": 144.992981,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1145,
+    "location_name": "North Richmond Station",
+    "lat": -37.8103943,
+    "lon": 144.9925,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Northcote",
+    "transport_type": "train",
+    "stop_id": 1147,
+    "location_name": "Northcote Station",
+    "lat": -37.7698631,
+    "lon": 144.995285,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Preston",
+    "transport_type": "train",
+    "stop_id": 1159,
+    "location_name": "Preston Station",
+    "lat": -37.7386742,
+    "lon": 145.000534,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Reservoir",
+    "transport_type": "train",
+    "stop_id": 1160,
+    "location_name": "Regent Station",
+    "lat": -37.7284,
+    "lon": 145.002777,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Reservoir",
+    "transport_type": "train",
+    "stop_id": 1161,
+    "location_name": "Reservoir Station",
+    "lat": -37.71689,
+    "lon": 145.006989,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Fitzroy North",
+    "transport_type": "train",
+    "stop_id": 1170,
+    "location_name": "Rushall Station",
+    "lat": -37.78322,
+    "lon": 144.9924,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Reservoir",
+    "transport_type": "train",
+    "stop_id": 1171,
+    "location_name": "Ruthven Station",
+    "lat": -37.7078972,
+    "lon": 145.009521,
+    "distance": 0.0
+  },
+  {
+    "suburb": "South Morang",
+    "transport_type": "train",
+    "stop_id": 1224,
+    "location_name": "South Morang Station",
+    "lat": -37.6491623,
+    "lon": 145.067032,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Thomastown",
+    "transport_type": "train",
+    "stop_id": 1192,
+    "location_name": "Thomastown Station",
+    "lat": -37.680336,
+    "lon": 145.014282,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Thornbury",
+    "transport_type": "train",
+    "stop_id": 1193,
+    "location_name": "Thornbury Station",
+    "lat": -37.7550468,
+    "lon": 144.998581,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Abbotsford",
+    "transport_type": "train",
+    "stop_id": 1201,
+    "location_name": "Victoria Park Station",
+    "lat": -37.7991562,
+    "lon": 144.994446,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1207,
+    "location_name": "West Richmond Station",
+    "lat": -37.8149452,
+    "lon": 144.991425,
+    "distance": 0.0
+  }
+]

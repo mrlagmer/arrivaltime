@@ -1,0 +1,182 @@
+[
+  {
+    "suburb": "Burnley",
+    "transport_type": "train",
+    "stop_id": 1030,
+    "location_name": "Burnley Station",
+    "lat": -37.8275566,
+    "lon": 145.007553,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Malvern East",
+    "transport_type": "train",
+    "stop_id": 1051,
+    "location_name": "Darling Station",
+    "lat": -37.8689575,
+    "lon": 145.062943,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Malvern East",
+    "transport_type": "train",
+    "stop_id": 1058,
+    "location_name": "East Malvern Station",
+    "lat": -37.87693,
+    "lon": 145.0694,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1059,
+    "location_name": "East Richmond Station",
+    "lat": -37.8264046,
+    "lon": 144.99707,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glen Iris",
+    "transport_type": "train",
+    "stop_id": 1075,
+    "location_name": "Gardiner Station",
+    "lat": -37.8532829,
+    "lon": 145.051666,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glen Iris",
+    "transport_type": "train",
+    "stop_id": 1077,
+    "location_name": "Glen Iris Station",
+    "lat": -37.8593063,
+    "lon": 145.058228,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glen Waverley",
+    "transport_type": "train",
+    "stop_id": 1078,
+    "location_name": "Glen Waverley Station",
+    "lat": -37.8795,
+    "lon": 145.162064,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Toorak",
+    "transport_type": "train",
+    "stop_id": 1094,
+    "location_name": "Heyington Station",
+    "lat": -37.83467,
+    "lon": 145.022629,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Malvern East",
+    "transport_type": "train",
+    "stop_id": 1096,
+    "location_name": "Holmesglen Station",
+    "lat": -37.8744,
+    "lon": 145.090652,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Mount Waverley",
+    "transport_type": "train",
+    "stop_id": 1105,
+    "location_name": "Jordanville Station",
+    "lat": -37.8736,
+    "lon": 145.112091,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Kooyong",
+    "transport_type": "train",
+    "stop_id": 1110,
+    "location_name": "Kooyong Station",
+    "lat": -37.8399277,
+    "lon": 145.033554,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Mount Waverley",
+    "transport_type": "train",
+    "stop_id": 1137,
+    "location_name": "Mount Waverley Station",
+    "lat": -37.87525,
+    "lon": 145.128052,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1162,
+    "location_name": "Richmond Station",
+    "lat": -37.8240738,
+    "lon": 144.990158,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Glen Waverley",
+    "transport_type": "train",
+    "stop_id": 1190,
+    "location_name": "Syndal Station",
+    "lat": -37.87623,
+    "lon": 145.14978,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Malvern",
+    "transport_type": "train",
+    "stop_id": 1195,
+    "location_name": "Tooronga Station",
+    "lat": -37.84937,
+    "lon": 145.041733,
+    "distance": 0.0
+  }
+]

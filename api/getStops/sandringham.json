@@ -1,0 +1,164 @@
+[
+  {
+    "suburb": "Balaclava",
+    "transport_type": "train",
+    "stop_id": 1013,
+    "location_name": "Balaclava Station",
+    "lat": -37.8694878,
+    "lon": 144.993515,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Brighton",
+    "transport_type": "train",
+    "stop_id": 1027,
+    "location_name": "Brighton Beach Station",
+    "lat": -37.9264832,
+    "lon": 144.989151,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Elsternwick",
+    "transport_type": "train",
+    "stop_id": 1061,
+    "location_name": "Elsternwick Station",
+    "lat": -37.88475,
+    "lon": 145.0009,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Brighton",
+    "transport_type": "train",
+    "stop_id": 1074,
+    "location_name": "Gardenvale Station",
+    "lat": -37.8966942,
+    "lon": 145.004166,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Hampton",
+    "transport_type": "train",
+    "stop_id": 1086,
+    "location_name": "Hampton Station",
+    "lat": -37.937973,
+    "lon": 145.001465,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Brighton",
+    "transport_type": "train",
+    "stop_id": 1126,
+    "location_name": "Middle Brighton Station",
+    "lat": -37.9151344,
+    "lon": 144.996292,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Brighton",
+    "transport_type": "train",
+    "stop_id": 1143,
+    "location_name": "North Brighton Station",
+    "lat": -37.9048843,
+    "lon": 145.002609,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Prahran",
+    "transport_type": "train",
+    "stop_id": 1158,
+    "location_name": "Prahran Station",
+    "lat": -37.8495178,
+    "lon": 144.989853,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Richmond",
+    "transport_type": "train",
+    "stop_id": 1162,
+    "location_name": "Richmond Station",
+    "lat": -37.8240738,
+    "lon": 144.990158,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Ripponlea",
+    "transport_type": "train",
+    "stop_id": 1165,
+    "location_name": "Ripponlea Station",
+    "lat": -37.8759079,
+    "lon": 144.995239,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Sandringham",
+    "transport_type": "train",
+    "stop_id": 1173,
+    "location_name": "Sandringham Station",
+    "lat": -37.95033,
+    "lon": 145.004562,
+    "distance": 0.0
+  },
+  {
+    "suburb": "South Yarra",
+    "transport_type": "train",
+    "stop_id": 1180,
+    "location_name": "South Yarra Station",
+    "lat": -37.8384438,
+    "lon": 144.99234,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Windsor",
+    "transport_type": "train",
+    "stop_id": 1214,
+    "location_name": "Windsor Station",
+    "lat": -37.8560524,
+    "lon": 144.992035,
+    "distance": 0.0
+  }
+]

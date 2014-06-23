@@ -1,0 +1,164 @@
+[
+  {
+    "suburb": "Sunshine North",
+    "transport_type": "train",
+    "stop_id": 1003,
+    "location_name": "Albion Station",
+    "lat": -37.7776566,
+    "lon": 144.8247,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Diggers Rest",
+    "transport_type": "train",
+    "stop_id": 1055,
+    "location_name": "Diggers Rest Station",
+    "lat": -37.6270142,
+    "lon": 144.719925,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1068,
+    "location_name": "Flagstaff Station",
+    "lat": -37.8119774,
+    "lon": 144.955658,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1071,
+    "location_name": "Flinders Street Station",
+    "lat": -37.81831,
+    "lon": 144.966965,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Footscray",
+    "transport_type": "train",
+    "stop_id": 1072,
+    "location_name": "Footscray Station",
+    "lat": -37.8010864,
+    "lon": 144.9032,
+    "distance": 0.0
+  },
+  {
+    "suburb": "St Albans",
+    "transport_type": "train",
+    "stop_id": 1076,
+    "location_name": "Ginifer Station",
+    "lat": -37.7575073,
+    "lon": 144.80957,
+    "distance": 0.0
+  },
+  {
+    "suburb": "St Albans",
+    "transport_type": "train",
+    "stop_id": 1107,
+    "location_name": "Keilor Plains Station",
+    "lat": -37.7292747,
+    "lon": 144.793732,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1120,
+    "location_name": "Melbourne Central Station",
+    "lat": -37.8099365,
+    "lon": 144.9626,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Footscray",
+    "transport_type": "train",
+    "stop_id": 1127,
+    "location_name": "Middle Footscray Station",
+    "lat": -37.8025,
+    "lon": 144.891479,
+    "distance": 0.0
+  },
+  {
+    "suburb": "West Melbourne",
+    "transport_type": "train",
+    "stop_id": 1144,
+    "location_name": "North Melbourne Station",
+    "lat": -37.80631,
+    "lon": 144.941513,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1155,
+    "location_name": "Parliament Station",
+    "lat": -37.8110542,
+    "lon": 144.9729,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Melbourne City",
+    "transport_type": "train",
+    "stop_id": 1181,
+    "location_name": "Southern Cross Station",
+    "lat": -37.8183327,
+    "lon": 144.95253,
+    "distance": 0.0
+  },
+  {
+    "suburb": "St Albans",
+    "transport_type": "train",
+    "stop_id": 1184,
+    "location_name": "St Albans Station",
+    "lat": -37.7448578,
+    "lon": 144.800049,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Sunbury",
+    "transport_type": "train",
+    "stop_id": 1187,
+    "location_name": "Sunbury Station",
+    "lat": -37.57909,
+    "lon": 144.727325,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Sunshine",
+    "transport_type": "train",
+    "stop_id": 1218,
+    "location_name": "Sunshine Station",
+    "lat": -37.7877426,
+    "lon": 144.83197,
+    "distance": 0.0
+  },
+  {
+    "suburb": "West Footscray",
+    "transport_type": "train",
+    "stop_id": 1196,
+    "location_name": "Tottenham Station",
+    "lat": -37.7992554,
+    "lon": 144.862946,
+    "distance": 0.0
+  },
+  {
+    "suburb": "Sydenham",
+    "transport_type": "train",
+    "stop_id": 1202,
+    "location_name": "Watergardens Station",
+    "lat": -37.7011261,
+    "lon": 144.774185,
+    "distance": 0.0
+  },
+  {
+    "suburb": "West Footscray",
+    "transport_type": "train",
+    "stop_id": 1206,
+    "location_name": "West Footscray Station",
+    "lat": -37.80181,
+    "lon": 144.88533,
+    "distance": 0.0
+  }
+]
